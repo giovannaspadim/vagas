@@ -1,102 +1,47 @@
----
-name: Adicionar nova vaga
-about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
-
----
-
-<!-- 
-==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
-
-!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!
-
-Não faça distinção de gênero no título da vaga.
-
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
-
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
-==================================================
--->
-
-<!--
-==================================================
-Caso a vaga for remoto durante a pandemia deixar a linha abaixo
-==================================================
--->
-> Vaga Remota durante a pandemia
-
 ## Nossa empresa
 
-Exemplo: Aqui na Corporação ACME somos líderes em...
+Somos uma Consultoria Empresarial que atua desde 1994 no mercado. Nosso potencial humano e competências individuais são a base de nossas ações, o que garante o prossionalismo, a produtividade e a geração de lucro nos negócios dos nossos clientes, que são fidelizados constantemente. O Grupo Asserth possui estrutura para atender a diversos segmentos do mercado, atuando em grandes corporações. Contamos com mais de 500 profissionais especializados que trazem soluções para diversas áreas.
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Quantidade de vagas: 02
+Horário de segunda a sexta-feira das 08:00 às 18:00
+Contrato determinado de 06 meses, entretanto o contrato é renovado de 30 em 30 dias.
+CLT: R$ 4.000 + VR + VT + Seguro de Vida + Assistência Médica
+PJ a confirmar.
+
+Análise e desenvolvimento de sistemas na plataforma Net C# em conjunto com banco dados SQL Server, desenvolvendo e consumindo WebServices/WCF
+Orientação a objetos e C#, ASP.NET Webforms, MVC utilizando Razor e aspx, Entity Framework, WCF e Banco de dados SQL Server, Visual Studio;
+CSS, JavaScript, HTML5
+Configurar o ambiente de desenvolvimento e produção sozinho;
 
 ## Local
-
-Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
+Piracicaba – SP
 
 ## Requisitos
 
-**Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+Obrigatórios:
 
-**Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+Orientação a objetos e C#, ASP.NET Webforms, MVC utilizando Razor e aspx, Entity Frameworl, WCF e Banco de dados SQL Server, Visual Studio;
+Possuir condições de entender regras de negócios e modelos, aplicando-os a softwares;
+CSS, JavaScript, HTML5, Windows Server, IIS, Redes e Infraestrutura.
+Inglês Técnico.
+Desejáveis:
 
-**Diferenciais:**
-- projetos opensource
-
-## Benefícios
-
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
-
-**Diferenciais:**
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
-
-## Contratação
-
-PJ a combinar
+Xamarin e desenvolvimentos de aplicações móveis (Android/IOS)
 
 ## Como se candidatar
-
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para giovanna.batista@grupoasserth.com.br com seu CV anexado - enviar no assunto: Desenvolvedor C# Pleno
 
 ## Tempo médio de feedbacks
-
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
-
-## Labels
-<!-- retire os labels que não fazem sentido à vaga -->
+Costumamos enviar feedbacks em até 5 dias após cada processo.
+E-mail para contato em caso de não haver resposta: giovanna.batista@grupoasserth.com.br
 
 #### Alocação
-- Alocado
-- Remoto
+Alocado
 
 #### Regime
-- CLT
-- Estágio
-- Freela
-- PJ
+CLT ou PJ
 
 #### Nível
-- Júnior
-- Pleno
-- Sênior
-- Especialista
-
-
+Pleno
